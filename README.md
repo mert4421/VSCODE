@@ -1,1 +1,6 @@
 # VSCODE
+
+
+deneme
+
+nasil gidiyor
